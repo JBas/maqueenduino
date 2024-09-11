@@ -1,10 +1,8 @@
-# DFRobot_MaqueenPlus
-
-* [中文版](./README_CN.md)
+# Maqueenduino
 
 Maqueen plus is a STEM educational robot . Optimized with better power management and larger capacity power supply, it can be perfectly compatible with Huskylens AI Vision Sensor.
    
-   ![Product Image](./resources/images/MBT0021.png)
+   ![Product Image](./resources/images/MBT0021-EN.jpg)
 
 ## Product Link (https://www.dfrobot.com/product-2026.html)
     SKU: MBT0021-EN
